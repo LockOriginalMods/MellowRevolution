@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "killer",
+      "predicate": {
+        "equipment": {
+          "mainhand": {
+            "enchantments": [
+              {
+                "enchantment": "mellow_revolution:auto-smelt",
+                "levels": {
+                  "min": 1
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "type": "mellow_revolution:smelt"
+}

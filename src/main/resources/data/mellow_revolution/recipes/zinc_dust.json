@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mellow_revolution:hammer"
+    },
+    {
+      "item": "mellow_revolution:raw_zinc"
+    }
+  ],
+  "result": {
+    "item": "mellow_revolution:zinc_dust",
+    "count": 1
+  }
+}

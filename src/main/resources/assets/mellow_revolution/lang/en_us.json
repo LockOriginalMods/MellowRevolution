@@ -1,0 +1,21 @@
+{
+  "itemGroup.mysticismtab": "Mellow Revolution",
+  "item.mellow_revolution.hammer": "Hammer",
+  "item.mellow_revolution.zinc_ingot": "Zinc ingot",
+  "item.mellow_revolution.brass_ingot": "Brass ingot",
+  "item.mellow_revolution.cutter": "Cutter",
+  "item.mellow_revolution.raw_zinc": "Raw zinc",
+  "item.mellow_revolution.zinc_dust": "Zinc dust",
+  "item.mellow_revolution.brass_dust": "Brass dust",
+  "item.mellow_revolution.iron_dust": "Iron dust",
+  "block.mellow_revolution.zinc_block": "Zinc block",
+  "block.mellow_revolution.zinc_ore": "Zinc_ore",
+  "block.mellow_revolution.deepslate_zinc_ore": "Deepslate zinc ore",
+  "item.mellow_revolution.iron_plate": "Iron plate",
+  "item.mellow_revolution.brass_plate": "Brass plate",
+  "item.mellow_revolution.mortar": "Mortar",
+  "item.mellow_revolution.copper_dust": "Copper dust",
+  "enchantment.mellow_revolution.auto-smelt": "Auto-Smelt",
+  "enchantment.mellow_revolution.auto-smelt.desc": "Converts reaped blocks or items into their cooked counterpart.",
+  "entity.minecraft.villager.mellow_revolution.mechanic": "Mechanic"
+}
