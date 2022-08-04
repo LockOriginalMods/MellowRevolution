@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mellow_revolution:mortar"
+    },
+    {
+      "item": "mellow_revolution:copper_dust"
+    },
+    {
+      "item": "mellow_revolution:zinc_dust"
+    }
+  ],
+  "result": {
+    "item": "mellow_revolution:brass_dust",
+    "count": 1
+  }
+}

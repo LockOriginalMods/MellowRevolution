@@ -1,0 +1,9 @@
+
+{
+  "name": "The mechanic's book",
+  "landing_text": "This book accidentally fell into your hands after you woke up in this boundless world or you found it, it will help develop to the industrial age",
+  "use_blocky_font": true,
+  "creative_tab": "mysticismtab",
+  "i18n": true,
+  "show_progress":false
+}
