@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "mellow_revolution:block/flax_stage3"
+  }
+}

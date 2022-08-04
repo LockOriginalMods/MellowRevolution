@@ -1,0 +1,7 @@
+{"variants":
+{"growth=bottom0":{"model":"mellow_revolution:block/corn_stage0"},
+  "growth=bottom1":{"model":"mellow_revolution:block/corn_stage1"},
+  "growth=bottom2":{"model":"mellow_revolution:block/corn_stage2"},
+  "growth=bottom3":{"model":"mellow_revolution:block/corn_stage3"},
+  "growth=bottom4":{"model":"mellow_revolution:block/corn_stage4"},
+  "growth=top0":{"model":"mellow_revolution:block/corn_stage5"}}}
