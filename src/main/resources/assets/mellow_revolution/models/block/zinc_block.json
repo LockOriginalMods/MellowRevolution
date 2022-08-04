@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "mellow_revolution:block/zinc_block"
-  }
-}
